@@ -56,14 +56,14 @@ namespace CollectionsMasterConsoleUI
 
             //TODO: Create a method that will set numbers that are a multiple of 3 to zero then print to the console all numbers
             Console.WriteLine("Multiple of three = 0: ");
-            ThreeKiller(array);
+            ThreeKiller(arrayOfFifty);
 
             Console.WriteLine("-------------------");
 
             //TODO: Sort the array in order now
             /*      Hint: Array.____()      */
             Console.WriteLine("Sorted numbers:");
-            Array.Sort(array);
+            Array.Sort(arrayOfFifty);
 
             
 
